@@ -1,0 +1,6 @@
+results/
+reruns/
+.venv/
+__pycache__/
+*.py[cod]
+*.nb[ci]

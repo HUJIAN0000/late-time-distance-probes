@@ -1,0 +1,258 @@
+[
+  {
+    "lens": "B1608+656",
+    "points": [
+      {
+        "hierarc_mc_normalized_kde": -17.03361259998088,
+        "sobol_reference": -17.139401323280904,
+        "independent_high_orders": [
+          -17.131748921201314,
+          -17.147112736485127
+        ],
+        "fit_quadrature": -17.257990945093614
+      },
+      {
+        "hierarc_mc_normalized_kde": -15.230251545952473,
+        "sobol_reference": -15.187506744054657,
+        "independent_high_orders": [
+          -15.177984820271275,
+          -15.197120207199678
+        ],
+        "fit_quadrature": -15.20281598620625
+      },
+      {
+        "hierarc_mc_normalized_kde": -19.36788975313207,
+        "sobol_reference": -19.57052620453452,
+        "independent_high_orders": [
+          -19.52490404648492,
+          -19.61832965557055
+        ],
+        "fit_quadrature": -20.023786387304032
+      }
+    ]
+  },
+  {
+    "lens": "RXJ1131-1231",
+    "points": [
+      {
+        "hierarc_mc_normalized_kde": -29.070846308486384,
+        "sobol_reference": -29.469169200427714,
+        "independent_high_orders": [
+          -29.6315762228123,
+          -29.32948998005547
+        ],
+        "fit_quadrature": -35.001873088635456
+      },
+      {
+        "hierarc_mc_normalized_kde": -26.08911111620328,
+        "sobol_reference": -25.95140432123005,
+        "independent_high_orders": [
+          -26.026140811547087,
+          -25.881867053358178
+        ],
+        "fit_quadrature": -26.37443471826746
+      },
+      {
+        "hierarc_mc_normalized_kde": -33.43382610503293,
+        "sobol_reference": -33.68196290749718,
+        "independent_high_orders": [
+          -33.254606028598445,
+          -34.443816709226816
+        ],
+        "fit_quadrature": -39.63081295874405
+      }
+    ]
+  },
+  {
+    "lens": "HE0435-1223",
+    "points": [
+      {
+        "hierarc_mc_normalized_kde": -6.816248409537812,
+        "sobol_reference": -6.807006707169618,
+        "independent_high_orders": [
+          -6.808542508985626,
+          -6.805473260424369
+        ],
+        "fit_quadrature": -6.775122348357896
+      },
+      {
+        "hierarc_mc_normalized_kde": -7.289453755142412,
+        "sobol_reference": -7.2932106353798725,
+        "independent_high_orders": [
+          -7.295481142908147,
+          -7.290945271379819
+        ],
+        "fit_quadrature": -7.262374306189487
+      },
+      {
+        "hierarc_mc_normalized_kde": -6.653012304957245,
+        "sobol_reference": -6.653321703877354,
+        "independent_high_orders": [
+          -6.654647016892013,
+          -6.651998144992767
+        ],
+        "fit_quadrature": -6.595901832309401
+      }
+    ]
+  },
+  {
+    "lens": "SDSS1206+4332",
+    "points": [
+      {
+        "hierarc_mc_normalized_kde": -8.563032686449791,
+        "sobol_reference": -8.554878318994655,
+        "independent_high_orders": [
+          -8.554377226017024,
+          -8.555379663192348
+        ],
+        "fit_quadrature": -8.54337461206653
+      },
+      {
+        "hierarc_mc_normalized_kde": -8.237094127223262,
+        "sobol_reference": -8.239982245111307,
+        "independent_high_orders": [
+          -8.239548363402061,
+          -8.24041631515561
+        ],
+        "fit_quadrature": -8.245419175259363
+      },
+      {
+        "hierarc_mc_normalized_kde": -9.25562787155268,
+        "sobol_reference": -9.259469511739567,
+        "independent_high_orders": [
+          -9.259216547945963,
+          -9.259722539540043
+        ],
+        "fit_quadrature": -9.194043745743514
+      }
+    ]
+  },
+  {
+    "lens": "WFI2033-4723",
+    "points": [
+      {
+        "hierarc_mc_normalized_kde": -7.731742815111907,
+        "sobol_reference": -7.733984223977499,
+        "independent_high_orders": [
+          -7.731838005472076,
+          -7.736135058645865
+        ],
+        "fit_quadrature": -7.687487041279287
+      },
+      {
+        "hierarc_mc_normalized_kde": -8.616573106281933,
+        "sobol_reference": -8.593695722055688,
+        "independent_high_orders": [
+          -8.591115465022643,
+          -8.5962826540419
+        ],
+        "fit_quadrature": -8.504518905030455
+      },
+      {
+        "hierarc_mc_normalized_kde": -7.195509462417219,
+        "sobol_reference": -7.1993922676500315,
+        "independent_high_orders": [
+          -7.197014233267323,
+          -7.201775970562903
+        ],
+        "fit_quadrature": -7.221833651197059
+      }
+    ]
+  },
+  {
+    "lens": "PG1115+080",
+    "points": [
+      {
+        "hierarc_mc_normalized_kde": -7.187228272193758,
+        "sobol_reference": -7.188779162164636,
+        "independent_high_orders": [
+          -7.187235152970265,
+          -7.19032555901043
+        ],
+        "fit_quadrature": -7.154147651618761
+      },
+      {
+        "hierarc_mc_normalized_kde": -7.162721326674761,
+        "sobol_reference": -7.160182401172399,
+        "independent_high_orders": [
+          -7.158419512422864,
+          -7.161948403187827
+        ],
+        "fit_quadrature": -7.127761598002889
+      },
+      {
+        "hierarc_mc_normalized_kde": -7.222169273964505,
+        "sobol_reference": -7.228795246776031,
+        "independent_high_orders": [
+          -7.227711321470901,
+          -7.229880348250222
+        ],
+        "fit_quadrature": -7.310094242820553
+      }
+    ]
+  },
+  {
+    "lens": "DES0408-5354",
+    "points": [
+      {
+        "hierarc_mc_normalized_kde": -7.967166683862462,
+        "sobol_reference": -7.956952764933215,
+        "independent_high_orders": [
+          -7.957701270726426,
+          -7.956204818981906
+        ],
+        "fit_quadrature": -7.856166915439698
+      },
+      {
+        "hierarc_mc_normalized_kde": -8.90775414105449,
+        "sobol_reference": -8.923240567980288,
+        "independent_high_orders": [
+          -8.925317988681414,
+          -8.921167454010586
+        ],
+        "fit_quadrature": -8.869285752036106
+      },
+      {
+        "hierarc_mc_normalized_kde": -7.693263320611999,
+        "sobol_reference": -7.686468776462844,
+        "independent_high_orders": [
+          -7.686628280677829,
+          -7.686309297685395
+        ],
+        "fit_quadrature": -7.44893673592358
+      }
+    ]
+  },
+  {
+    "lens": "WGD2038-4008",
+    "points": [
+      {
+        "hierarc_mc_normalized_kde": -7.787126254218619,
+        "sobol_reference": -7.785303950236857,
+        "independent_high_orders": [
+          -7.785120758593299,
+          -7.785487175445742
+        ],
+        "fit_quadrature": -7.8075127583409145
+      },
+      {
+        "hierarc_mc_normalized_kde": -8.341973672158485,
+        "sobol_reference": -8.342919159338921,
+        "independent_high_orders": [
+          -8.343072506038723,
+          -8.342765836150724
+        ],
+        "fit_quadrature": -8.345886449460911
+      },
+      {
+        "hierarc_mc_normalized_kde": -7.228554320308802,
+        "sobol_reference": -7.229280320956417,
+        "independent_high_orders": [
+          -7.229382400199857,
+          -7.229178252132086
+        ],
+        "fit_quadrature": -7.246602369485948
+      }
+    ]
+  }
+]

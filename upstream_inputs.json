@@ -1,0 +1,11 @@
+{
+  "inputs/amati/review/Pantheon+SH0ES.dat": "https://github.com/PantheonPlusSH0ES/DataRelease",
+  "inputs/amati/review/Pantheon+SH0ES_STAT+SYS.cov": "https://github.com/PantheonPlusSH0ES/DataRelease",
+  "inputs/amati/reanalysis/data/parents/a118_full.csv": "https://arxiv.org/abs/2105.12692v3",
+  "data/J_A+A_642_A150.tar/table3.dat": "https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A%2BA/642/A150",
+  "lens_sn_grb_pilot/bao_dr2/desi_mean.txt": "https://github.com/CobayaSampler/bao_data/tree/master/desi_bao_dr2",
+  "lens_sn_grb_pilot/bao_dr2/desi_cov.txt": "https://github.com/CobayaSampler/bao_data/tree/master/desi_bao_dr2",
+  "lens_sn_grb_pilot/lenses.csv": "Published per-lens summaries cited in the manuscript and listed row by row.",
+  "tdc_inputs/tdcosmo2025_likelihood_processed_const_.pkl": "https://github.com/cosmosis-developers/cosmosis-standard-library/tree/a11b43dfabae3417dc40cbf2c674fa59d964b170/likelihood/tdcosmo",
+  "tdc_inputs/kin_axi_jam_scaling/tdcosmo_correction.pickle": "https://github.com/cosmosis-developers/cosmosis-standard-library/tree/a11b43dfabae3417dc40cbf2c674fa59d964b170/likelihood/tdcosmo"
+}

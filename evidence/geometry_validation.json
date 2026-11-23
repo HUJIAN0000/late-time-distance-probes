@@ -1,0 +1,7 @@
+{
+  "geometry_realizations": 15,
+  "lens_systems": 8,
+  "max_relative_time_delay_error": 1.2212453270876722e-15,
+  "max_relative_lens_angular_distance_error": 6.661338147750939e-16,
+  "kinematics_chi2_max_relative_error": 2.1760371282653068e-14
+}
